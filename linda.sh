@@ -1,1 +1,10 @@
-Name 
+name="Abena"
+company="KASH"
+position="Supervisor"
+nickname="Mama Lee"
+maritalstatus="Mrs"
+echo " Hello $name!!"
+echo "welcome to $company!!"
+echo "As a $position!! we would love to walk you through our 3 weeks orientation"
+echo "$nickname!!, our team here cannot wait to meet you"
+echo "I hope $maritalstatus and the family are doing well"
